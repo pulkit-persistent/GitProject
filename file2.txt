@@ -1,3 +1,4 @@
 CR1 document
  
 change for testing stash
+updating file 2 after remote server
