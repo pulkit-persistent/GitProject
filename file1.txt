@@ -10,4 +10,8 @@ change :-> to test logout feature
 
 change :-> to gix bug1
 
+
 chang :-> change to teammate for some feature 3 way merge
+
+change :-> to fix bug 2
+
