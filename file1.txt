@@ -2,16 +2,18 @@
 
 
 
-change :-> FFor Login feature
+1.change :-> FFor Login feature
 
 
 
-change :-> to test logout feature
+2.change :-> to test logout feature
 
-change :-> to gix bug1
+3.change :-> to gix bug1
 
 
-chang :-> change to teammate for some feature 3 way merge
+4.chang :-> change to teammate for some feature 3 way merge
 
-change :-> to fix bug 2
+5.change :-> to fix bug 2
+
+6.change :-> to check rebase hence this change is from teammate from remote 
 
