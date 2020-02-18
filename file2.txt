@@ -1,6 +1,7 @@
 CR1 document
  
-change for testing stash
-updating file 2 after remote server
+1.change for testing stash
+2.updating file 2 after remote server
 
-change on teammate repository
+3.change on teammate 
+4. file to change on remote base 
