@@ -2,10 +2,12 @@
 
 
 
-change :-> for Login feature
+change :-> FFor Login feature
 
 
 
 change :-> to test logout feature
 
 change :-> to gix bug1
+
+chang :-> change to teammate for some feature 3 way merge
